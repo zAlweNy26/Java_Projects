@@ -1,5 +1,5 @@
 # Alwe's Java Projects
-## 1. Tris (or TicTacToe)
+#### 1. Tris (or TicTacToe)
 
     - SinglePlayer - Work - 100 %
     - VS A.I. - Work - 75 %
@@ -8,7 +8,7 @@
     About it :
     Tris (or TicTacToe) is just a base game made for fun.
     
-## 2. Force 4 (or Connect 4)
+#### 2. Force 4 (or Connect 4)
 
     SinglePlayer - Work - 100%
     
@@ -19,7 +19,7 @@
     About it :
     Force 4 (or Connect 4) is just another base for fun and improve my java skills.
     
-## 3. Unturned Translator
+#### 3. Unturned Translator
     Completed 100 %
     
     ### About it :
