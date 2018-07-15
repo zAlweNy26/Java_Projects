@@ -2,7 +2,7 @@
 ## 1. Tris (or TicTacToe)
    - SinglePlayer - Work - 100 %
    - VS A.I. - Work - 75 %
-   - Multiplayer P2p - Doesn't Work - 25 %
+   - Multiplayer P2P - Doesn't Work - 25 %
     
    ### About it :
    Tris (or TicTacToe) is just a base game made for fun.
