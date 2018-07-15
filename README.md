@@ -13,7 +13,7 @@
    - Multiplayer P2P - Doesn't Work - 0%
     
    ### About it :
-   Force 4 (or Connect 4) is just another base for fun and improve my java skills.
+   Force 4 (or Connect 4) is just another base game made for fun and improve my java skills.
     
 ## 3. Unturned Translator
    - Completed 100 %
