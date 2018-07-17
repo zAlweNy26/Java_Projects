@@ -22,3 +22,6 @@
    Unturned Translator is an application made to ease the translation about a game called "Unturned" on Steam.
    
    Check out my Italian translation on Unturned Steam Workshop : [Italian Translation](https://steamcommunity.com/sharedfiles/filedetails/?id=1080625737)
+
+I accept any kind of suggestions to improve my projects !
+If you want to talk with me, contact me on my [Discord Server](https://discord.gg/cM3C8Qm) 
