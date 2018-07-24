@@ -16,7 +16,7 @@
    Force 4 (or Connect 4) is just another base game made for fun and improve my java skills.
     
 ## 3. Unturned Translator
-   - Completed 100 %
+   - Completed ± 100 %
     
    ### About it :
    Unturned Translator is an application made to ease the translation about a game called "Unturned" on Steam.
