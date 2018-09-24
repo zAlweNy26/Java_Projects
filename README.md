@@ -22,6 +22,13 @@
    Unturned Translator is an application made to ease the translation about a game called "Unturned" on Steam.
    - Check out my Italian translation on Unturned Steam Workshop : [Italian Translation](https://steamcommunity.com/sharedfiles/filedetails/?id=1080625737)
 
+## 4. Fiscal Code Calculator
+   - Completed ± 100 %
+   
+   ### About it :
+   Fiscal Code Calculator is an application that calculate your fiscal code in a really easy way.
+   After calculating it, the application will enter the data and the fiscal code in a JSON file in the same directory of the program.
+   
 # Other
 
 I accept any kind of suggestions to improve my projects !
