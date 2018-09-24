@@ -27,9 +27,11 @@
    
    ### About it :
    Fiscal Code Calculator is an application that calculate your fiscal code in a really easy way.
-   After calculating it, the application will enter the data and the fiscal code in a JSON file in the same directory of the program.
+   After calculating it, the application will enter the data and the fiscal code in a JSON file in the same directory of the        program. The program works only with italian cities and foreign nations. 
+   - Italian cities database provided by [Matteo Contrini](https://github.com/matteocontrini/comuni-json)
    
 # Other
 
+If you find bugs, report them to me and I will try to solve them !
 I accept any kind of suggestions to improve my projects !
 If you want to talk with me, contact me on my [Discord Server !](https://discord.gg/cM3C8Qm) 
