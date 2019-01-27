@@ -5,7 +5,7 @@
    - Multiplayer P2P - Doesn't Work - 25 %
     
    ### About it :
-   Tris (or TicTacToe) is just a base game made for fun.
+   Tris (or TicTacToe) is just a base game made for fun. _(Who doesn't know this game !?)_
    
    ### How I want to improve it :
    I want to add different A.I. difficulty levels.
@@ -17,7 +17,7 @@
    - Multiplayer P2P - Doesn't Work - 0%
     
    ### About it :
-   Force 4 (or Connect 4) is just another base game made for fun and improve my java skills.
+   Force 4 (or Connect 4) is just another base game made for fun and improve my java skills. You have to put 4 discs in one of three different ways : horizontal, vertical or oblique. When you do it, it's a point ! Now remove all the discs and start another round ! Always pay attention and stop your enemy from doing it, or you lose !
    
    ### How I want to improve it :
    I want to add a realistic animation of falling discs.
