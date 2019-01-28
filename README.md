@@ -55,7 +55,6 @@
    
    ### How I want to improve it :
    I want to adjust the countdown timer system.
-   I want to improve the graphics.
    I want to make a working p2p multiplayer system.
    
 # Other
