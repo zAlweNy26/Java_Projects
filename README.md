@@ -2,7 +2,7 @@
 ## 1. Tris (or TicTacToe)
    - Local Multiplayer - Works - 100 %
    - VS A.I. - Works - 75 %
-   - Multiplayer P2P - Doesn't Work - 25 %
+   - Multiplayer P2P - Doesn't Work - 0 %
     
    ### About it :
    Tris (or TicTacToe) is just a base game made for fun. _(Who doesn't know this game !?)_
@@ -48,7 +48,7 @@
 ## 5. Acronym Game
    - Main Game - Works - 100 %
    - Features - Works - 100 %
-   - Multiplayer P2P - Doesn't Work - 0% **_[Even not yet implemented]_**
+   - Multiplayer P2P - Doesn't Work - 0%
    
    ### About it :
    Acronym Game is a java game that you have to play with friends. You have to write a funny meaningful sentence before time runs out and then, you and your friends have to vote the best one. Each vote is secret and the writer of the sentence must be secret as well, so you can just vote which you like most !
