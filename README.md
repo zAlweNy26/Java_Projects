@@ -43,7 +43,7 @@
    - Italian cities database provided by [Matteo Contrini](https://github.com/matteocontrini/comuni-json)
    
    ### How I want to improve it :
-   I want to add conditions for names and surnames with all kind of accented letters.
+   - I want to add conditions for names and surnames with all kind of accented letters.
    
 ## 5. Acronym Game
    - Main Game - Works - 100 %
