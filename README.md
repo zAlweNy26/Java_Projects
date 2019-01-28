@@ -46,15 +46,14 @@
    I want to add conditions for names and surnames with all kind of accented letters.
    
 ## 5. Acronym Game
-   - Main Game - Works - 95 %
-   - Features - Works - 95 %
-   - Multiplayer P2P - Doesn't Work - 0% **_[Not yet implemented]_**
+   - Main Game - Works - 100 %
+   - Features - Works - 100 %
+   - Multiplayer P2P - Doesn't Work - 0% **_[Even not yet implemented]_**
    
    ### About it :
    Acronym Game is a java game that you have to play with friends. You have to write a funny meaningful sentence before time runs out and then, you and your friends have to vote the best one. Each vote is secret and the writer of the sentence must be secret as well, so you can just vote which you like most !
    
    ### How I want to improve it :
-   I want to adjust the countdown timer system.
    I want to make a working p2p multiplayer system.
    
 # Other
