@@ -8,8 +8,8 @@
    Tris (or TicTacToe) is just a base game made for fun. _(Who doesn't know this game !?)_
    
    ### How I want to improve it :
-   I want to add different A.I. difficulty levels.
-   I want to make a working p2p multiplayer system.
+   - I want to add different A.I. difficulty levels.
+   - I want to make a working p2p multiplayer system.
     
 ## 2. Force 4 (or Connect 4)
    - Local Multiplayer - Works - 100%
@@ -20,9 +20,9 @@
    Force 4 (or Connect 4) is just another base game made for fun and improve my java skills. You have to put 4 discs in one of three different ways : horizontal, vertical or oblique. When you do it, it's a point ! Now remove all the discs and start another round ! Always pay attention and stop your enemy from doing it, or you lose !
    
    ### How I want to improve it :
-   I want to add a realistic animation of falling discs.
-   I want to add different A.I. difficulty levels.
-   I want to make a working p2p multiplayer system.
+   - I want to add a realistic animation of falling discs.
+   - I want to add different A.I. difficulty levels.
+   - I want to make a working p2p multiplayer system.
     
 ## 3. Unturned Translator
    - Completed ± 100 %
@@ -32,7 +32,7 @@
    - Check out my Italian translation on Unturned Steam Workshop : [Italian Translation](https://steamcommunity.com/sharedfiles/filedetails/?id=1080625737)
    
    ### How I want to improve it :
-   I want to facilitate the translation with a line recognition.
+   - I want to facilitate the translation with a line recognition.
 
 ## 4. Fiscal Code Calculator
    - Completed ± 100 %
@@ -54,7 +54,7 @@
    Acronym Game is a java game that you have to play with friends. You have to write a funny meaningful sentence before time runs out and then, you and your friends have to vote the best one. Each vote is secret and the writer of the sentence must be secret as well, so you can just vote which you like most !
    
    ### How I want to improve it :
-   I want to make a working p2p multiplayer system.
+   - I want to make a working p2p multiplayer system.
    
 # Other
 
