@@ -45,6 +45,9 @@
    ### How I want to improve it :
    - I want to add conditions for names and surnames with all kind of accented letters.
    
+   ### Missing features :
+   - Problems with municipalities that existed in the past and now merged with other municipalities.\
+   
 ## 5. Acronym Game
    - Main Game - Works - 100 %
    - Features - Works - 100 %
