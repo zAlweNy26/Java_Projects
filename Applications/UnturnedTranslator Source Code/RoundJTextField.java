@@ -1,4 +1,3 @@
-package it.alwe.apps;
 import java.awt.Graphics;
 import java.awt.Shape;
 import java.awt.geom.RoundRectangle2D;
