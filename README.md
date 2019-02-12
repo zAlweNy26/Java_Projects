@@ -61,6 +61,6 @@
    
 # Other
 
-If you find bugs, report them to me and I will try to solve them !
-I accept any kind of suggestions to improve my projects !
-If you want and you can help me, or you just want to talk with me, contact me on my [Discord Server !](https://discord.gg/cM3C8Qm) 
+- If you find bugs, report them to me and I will try to solve them !
+- I accept any kind of suggestions to improve my projects !
+- If you want and you can help me, or you just want to talk with me, contact me on Steam [here](https://steamcommunity.com/id/zalweny26) or on Discord [Nickname : zAlweNy26#1059] or you can find me on my [Discord Server !](https://discord.gg/cM3C8Qm) 
