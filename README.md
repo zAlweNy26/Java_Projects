@@ -1,5 +1,5 @@
 # Alwe's Java Projects
-### 1. Tris (or TicTacToe)
+### 1. Tris (or TicTacToe) :white_check_mark:
    - Local Multiplayer - Works - **100 %**
    - VS A.I. - Works - **75 %**
    - Multiplayer P2P - Doesn't Work - **0 %**
@@ -11,7 +11,7 @@
    - I want to add different A.I. difficulty levels.
    - I want to make a working p2p multiplayer system.
     
-### 2. Force 4 (or Connect 4)
+### 2. Force 4 (or Connect 4) :white_check_mark:
    - Local Multiplayer - Works - **100 %**
    - VS A.I. - Works - **50 %**
    - Multiplayer P2P - Doesn't Work - **0 %**
@@ -24,7 +24,7 @@
    - I want to add different A.I. difficulty levels.
    - I want to make a working p2p multiplayer system.
     
-### 3. Unturned Translator
+### 3. Unturned Translator :white_check_mark:
    - Completed ± **100 %**
     
    #### About it :
@@ -34,13 +34,13 @@
    #### How I want to improve it :
    - I want to facilitate the translation with a line recognition.
 
-### 4. Fiscal Code Calculator
+### 4. Fiscal Code Calculator :white_check_mark:
    - Completed ± **100 %**
    
    #### About it :
    Fiscal Code Calculator is an application that calculate your fiscal code in a really easy way.
-   After calculating it, the application will enter the data and the fiscal code in a JSON file in the same directory of the        program. The program works only with italian cities and foreign nations. 
-   - Italian cities database provided by @matteocontrini [here](https://github.com/matteocontrini/comuni-json)
+   After calculating it, the application will enter the data and the fiscal code in a JSON file in the same directory of the        program. The program works only with italian cities and foreign nations.
+   - Italian cities database provided by **Matteo Contrini** [here](https://github.com/matteocontrini/comuni-json)
    
    #### How I want to improve it :
    - I want to add conditions for names and surnames with all kind of accented letters.
@@ -48,7 +48,7 @@
    #### Missing features :
    - Problems with municipalities that existed in the past and now merged with other municipalities.
    
-### 5. Acronym Game
+### 5. Acronym Game :white_check_mark:
    - Main Game - Works - **100 %**
    - Features - Works - **100 %**
    - Multiplayer P2P - Doesn't Work - **0 %**
