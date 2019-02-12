@@ -1,5 +1,3 @@
-package it.alwe.apps;
-
 import java.awt.Component;
 import java.awt.Point;
 import java.awt.event.MouseEvent;
