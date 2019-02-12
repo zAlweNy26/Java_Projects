@@ -66,6 +66,6 @@
 - If you want and you can help me, or you just want to talk with me, contact me ! 
 
 # Contacts 
-Steam Account : [here !](https://steamcommunity.com/id/zalweny26) 
-Discord Account : [Nickname : zAlweNy26#1059]
-Discord Server : [this !](https://discord.gg/cM3C8Qm)
+- Steam Account : [here](https://steamcommunity.com/id/zalweny26) !
+- Discord Account : [Nickname : zAlweNy26#1059]
+- Discord Server : [this](https://discord.gg/cM3C8Qm) !
