@@ -42,9 +42,6 @@
    After calculating it, the application will enter the data and the fiscal code in a JSON file in the same directory of the        program. The program works only with italian cities and foreign nations.
    - Italian cities database provided by **Matteo Contrini** [here](https://github.com/matteocontrini/comuni-json)
    
-   #### How I want to improve it :
-   - I want to add conditions for names and surnames with all kind of accented letters.
-   
    #### Missing features :
    - Problems with municipalities that existed in the past and now merged with other municipalities.
    
