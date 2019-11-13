@@ -1,7 +1,7 @@
 # Alwe's Java Projects
 - ### 1. Tris (or TicTacToe)
    - Local Multiplayer - Works - **100 %**
-   - VS A.I. - Works - **75 %**
+   - VS A.I. - Works - **50 %**
    - Multiplayer P2P - Doesn't Work - **0 %**
     
    #### About it :
