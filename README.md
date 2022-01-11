@@ -64,5 +64,4 @@
 
 ## Contacts 
 - Steam Account : [here](https://steamcommunity.com/id/zalweny26) !
-- Discord Account : [ Nickname : **_zAlweNy26#1059_** ]
-- Discord Server : [this](https://discord.gg/cM3C8Qm) !
+- Discord Account : [ Nickname : **_zAlweNy26#4796_** ]
